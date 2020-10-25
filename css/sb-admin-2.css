@@ -1239,6 +1239,7 @@ pre code {
   .col-lg-6 {
     flex: 0 0   50%;
     max-width: 50%;
+
   }
   .col-lg-7 {
     flex: 0 0 58.33333%;
@@ -1706,7 +1707,7 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #051d5f;
 }
 
 .table-light th,
@@ -1728,7 +1729,7 @@ pre code {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #d1d1d5;
+  background-color: #101079;
 }
 
 .table-dark th,
